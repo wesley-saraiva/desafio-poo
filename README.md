@@ -2,7 +2,7 @@
 
 ## Descrição do projeto
 
-### Projeto desafio-poo desenvolvido em java com POO(Programação orientada a objetos) com conceitos de abstração, ensapsulamento, heranca e polimorfismo.
+### Projeto 'desafio-poo' desenvolvido em Java com POO(Programação orientada a objetos) com conceitos de abstração, encapsulamento, herança e polimorfismo.
 ### Classes
 
 - Main (Classe Principal);
